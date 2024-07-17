@@ -1,0 +1,1 @@
+This is a game of logical reasoning and patience! In Sudoku, your goal is to fill a 9x9 grid with digits so that each column, each row, and each of the nine 3x3 subgrids (called "regions") contain all of the digits from 1 to 9.
